@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bpAWmxkpfVmq+LOBl23fJmE4pDcPQZFQ3xwbPKuZlWM=",
+  "Source": "CrudTest.API",
+  "BasePath": "_content/CrudTest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

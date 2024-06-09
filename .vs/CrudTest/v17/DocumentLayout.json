@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samad\\source\\repos\\CrudTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\helpers\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\helpers\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\crudtest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\crudtest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\models\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\models\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\migrations\\20240609120955_addedfirstnamelastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\migrations\\20240609120955_addedfirstnamelastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\models\\dtos\\userparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\models\\dtos\\userparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\migrations\\20240608095451_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\migrations\\20240608095451_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\migrations\\20240609121835_updateseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\migrations\\20240609121835_updateseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\migrations\\20240608123609_addedseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\migrations\\20240608123609_addedseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|c:\\users\\samad\\source\\repos\\crudtest\\crudtest.api\\migrations\\20240608104552_addeddisplaynamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE1842-4FCC-4EF2-9805-C2C9C8892200}|CrudTest.API\\CrudTest.API.csproj|solutionrelative:crudtest.api\\migrations\\20240608104552_addeddisplaynamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CrudTest.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:56:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiException.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Errors\\ApiException.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiException.cs",
+              "RelativeToolTip": "CrudTest.API\\Errors\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:04:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "CrudTest.API\\Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:03:54.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CrudTest.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA4wCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:07:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CrudTest.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:02:46.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Program.cs",
+              "RelativeToolTip": "CrudTest.API\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:27:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudTest.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\appsettings.json",
+              "RelativeToolTip": "CrudTest.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAC5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T09:40:44.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CrudTest.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\appsettings.Development.json",
+              "RelativeToolTip": "CrudTest.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAC0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T10:37:27.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Errors\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "CrudTest.API\\Errors\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:01:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Services\\TokenService.cs",
+              "RelativeToolTip": "CrudTest.API\\Services\\TokenService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:35:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrudTest.API.csproj",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\CrudTest.API.csproj",
+              "RelativeDocumentMoniker": "CrudTest.API\\CrudTest.API.csproj",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\CrudTest.API.csproj",
+              "RelativeToolTip": "CrudTest.API\\CrudTest.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T10:03:33.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UsersDto.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Models\\DTOs\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UsersDto.cs",
+              "RelativeToolTip": "CrudTest.API\\Models\\DTOs\\UsersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:14:50.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Models\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "CrudTest.API\\Models\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:10:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CrudTest.API\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:12:55.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Services\\UserService.cs",
+              "RelativeToolTip": "CrudTest.API\\Services\\UserService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:34:32.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Helpers\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Helpers\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Helpers\\PaginatedResponse.cs",
+              "RelativeToolTip": "CrudTest.API\\Helpers\\PaginatedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:12:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "CrudTest.API\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:23:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Entities\\User.cs",
+              "RelativeToolTip": "CrudTest.API\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:28:18.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Models\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "CrudTest.API\\Models\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:01:44.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240609121835_UpdateSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240609121835_UpdateSeedData.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Migrations\\20240609121835_UpdateSeedData.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240609121835_UpdateSeedData.cs",
+              "RelativeToolTip": "CrudTest.API\\Migrations\\20240609121835_UpdateSeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:18:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudTest.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:25:08.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240609120955_AddedFirstNameLastName.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240609120955_AddedFirstNameLastName.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Migrations\\20240609120955_AddedFirstNameLastName.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240609120955_AddedFirstNameLastName.cs",
+              "RelativeToolTip": "CrudTest.API\\Migrations\\20240609120955_AddedFirstNameLastName.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:09:55.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserParams.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UserParams.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Models\\DTOs\\UserParams.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\UserParams.cs",
+              "RelativeToolTip": "CrudTest.API\\Models\\DTOs\\UserParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:36:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240608123609_AddedSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608123609_AddedSeedData.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Migrations\\20240608123609_AddedSeedData.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608123609_AddedSeedData.cs",
+              "RelativeToolTip": "CrudTest.API\\Migrations\\20240608123609_AddedSeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:36:09.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "CrudTest.API\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:39:41.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "CrudTest.API\\Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:05:40.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240608104552_AddedDisplayNameField.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608104552_AddedDisplayNameField.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Migrations\\20240608104552_AddedDisplayNameField.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608104552_AddedDisplayNameField.cs",
+              "RelativeToolTip": "CrudTest.API\\Migrations\\20240608104552_AddedDisplayNameField.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:45:52.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240608095451_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608095451_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "CrudTest.API\\Migrations\\20240608095451_Initial-Migration.cs",
+              "ToolTip": "C:\\Users\\samad\\source\\repos\\CrudTest\\CrudTest.API\\Migrations\\20240608095451_Initial-Migration.cs",
+              "RelativeToolTip": "CrudTest.API\\Migrations\\20240608095451_Initial-Migration.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:54:51.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
